@@ -1,2 +1,2 @@
-# convolution-networks-
+# Convolution Networks
 This project aims to develop a specialized convolutional neural network (CNN) for computer vision tasks, using the "Dogs-vs-Cats" dataset as the primary data source. CNNs are highly regarded for their ability to identify and learn spatial hierarchies in images, making them ideal for applications such as image classification, segmentation, and object detection. Given the relatively small size of the dataset, we aim to leverage the strengths of CNNs along with advanced techniques like transfer learning to build an effective and generalizable classification model. Despite the challenges posed by limited data, we are optimistic about achieving robust and accurate classification results.
